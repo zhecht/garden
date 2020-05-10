@@ -1,0 +1,163 @@
+{
+	"bachelors_button": {
+		"full": "Bachelor's Button",
+		"type": "flower",
+		"total": 200,
+		"edible": true,
+		"sunlight": "full",
+		"season": "April-May",
+		"plant": "Sow seeds 1/2\" deep at 12\" spacing",
+		"maturity": 90,
+		"height": "2-3in",
+		"description": "Also known as cornflower, Bachelor's Button sports beautiful, clear blue flowers atop 2-3' tall gray-green foliage. Toss the edible petals on top of a salad or dessert. A favorite of pollinators and great in a border or meadow mix. Will re-seed readily."
+	},
+	"marigold": {
+		"full": "African Marigold",
+		"type": "flower",
+		"total": 100,
+		"sunlight": "full",
+		"season": "May-June",
+		"height": "3ft",
+		"plant": "Sow seeds 1/2\" deep and thin to 12\" spacing",
+		"description": "This marigold has large, brilliant orange and yellow flowers and bushy deep green foliage. Larger than most marigold varieties, plants reach over 3 feet tall. Marigolds are a helpful companion plant in the garden, discouraging many pests with their strong scent."
+	},
+	"classic_sunflower": {
+		"full": "Tarahumara Sunflower",
+		"type": "flower",
+		"total": 1500,
+		"edible": true,
+		"sunlight": "full",
+		"season": "May-June",
+		"plant": "Sow 1\" deep at 8\"-14\" spacing",
+		"maturity": 80,
+		"height": "6-9ft",
+		"description": "This old-fashioned sunny sunflower grows 6-9 feet tall. Large flowering heads have beautiful bright yellow petals with yellow-green centers and produce edible white seeds. Great for attracting birds to your garden, or planting a sunflower house for children. Easy to grow; tolerates a wide range of soil types and conditions."
+	},
+	"tigers_eye_sunflower": {
+		"full": "Tiger's Eye Sunflower mix",
+		"type": "flower",
+		"total": 150,
+		"edible": true,
+		"sunlight": "full",
+		"season": "May-June",
+		"plant": "Sow 1\" deep at 8-14\" spacing",
+		"maturity": 80,
+		"height": "6-8in",
+		"description": "Our Tiger's Eye mix is an exciting variation on the standard sunflower. This multi-headed variety has a mix of single and double blooms with petal colors ranging from pale yellow to deep maroon. Sturdy 6-8' plants grow well even in hot, dry locations with low soil fertility. Wonderful clustered along a fence or anywhere you want to attract birds, bees, and even hummingbirds."
+	},
+	"cosmos": {
+		"full": "Diablo Cosmos",
+		"type": "flower",
+		"total": 100,
+		"height": "2-3in",
+		"description": "A glorious garden ornamental with brilliant orange flowers tinged with fiery red. Vigorous 2-3' plants produce a continuous supply of flowers, even without dead-heading. Will re-seed easily. Bees love it!"
+	},
+	"radish": {
+		"full": "Cherry Belle Radish",
+		"type": "veg",
+		"total": 5000,
+		"microgreen": true
+	},
+	"cabbage": {
+		"full": "Copenhagen Cabbage",
+		"type": "veg",
+		"total": 1500,
+		"description": "This heirloom green cabbage is perfect for home gardens, producing 3-4 lb round heads on compact plants. Heads hold well on the plant and in the fridge. Tender and sweet, Copenhagen is delicious raw, cooked or in sauerkraut."
+	},
+	"turnip": {
+		"full": "Purple Top Turnip",
+		"type": "veg",
+		"total": 3000,
+		"sunlight": "full",
+		"plant": "Sow seeds 1/4\" deep at 3-6\" spacing",
+		"season": "March-April,September",
+		"maturity": 55,
+		"description": "Classic purple and white turnip with sweet-sharp flesh that remains crisp and flavorful even when large. Stores extremely well. Edible greens make a tasty, nutrient-rich addition to sautés and stews. For best flavor and texture, plant in late summer and harvest after a frost or two."
+	},
+	"cucumber": {
+		"full": "Marketmore '76 Cucumber",
+		"type": "veg",
+		"total": 50,
+		"sunlight": "full / light shade",
+		"plant": "Sow 2-3 seeds 1\" deep at 2-3 feet spacing",
+		"season": "May-June",
+		"maturity": 65,
+		"description": "This is the classic slicing cucumber. Straight 8\" dark green fruit that snap crisp and cool in the heat of summer. Perfect in salads or sandwiches. Try with yogurt, lemon, and garlic. Also makes a fine pickle. Productive plants like to be picked early and often."
+	},
+	"arugula": {
+		"full": "Arugula",
+		"type": "lettuce",
+		"total": 20000,
+		"sunlight": "full / light shade",
+		"season": "March-April,September",
+		"maturity": 21,
+		"microgreen": true,
+		"plant": "Sow seeds 1/4\" deep at 2-6\" spacing",
+		"description": "Arugula adds a spicy flavor to salads, sandwiches, or just about any meal. Great tasting raw or lightly cooked. Tender leaves will regrow if cut 1/2\" above ground. For best performance and flavor, plant early in the spring and again in late-summer for a fall harvest."
+	},
+	"kale": {
+		"full": "Rainbow Lacinato Kale",
+		"type": "lettuce",
+		"total": 100,
+		"sunlight": "full",
+		"season": "March-April,September",
+		"maturity": 65,
+		"plant": "Sow seeds 1/4\" deep at 12-18\" spacing",
+		"description": "This unique purple dino kale has deeply curled leaves in dark green with bright purple stems and veins. Tender and tasty, growing sweeter after a frost. For continuous harvests, snap large leaves off from the bottom of the stem and allow the top to continue producing. Originally developed by Frank Morton of Wild Garden Seed. OSSI (Open Source Seed Initiative) Pledged Variety."
+	},
+	"lettuce_Mix": {
+		"full": "Lettuce Mix",
+		"type": "lettuce",
+		"total": 5000,
+		"description": "A blend of our lettuce varieties, perfect for small gardens or for cut-and-come-again plantings. Enjoy a mix of flavors, color and textures: romaines, red-leafed varieties, and butterheads. Grows best in cool weather."
+	},
+	"snap_pea": {
+		"full": "Magnolia Blossom Snap Pea",
+		"type": "veg",
+		"total": 300,
+		"sunlight": "full",
+		"season": "March-May,September",
+		"plant": "Sow seeds 1\" deep at 2-4\" spacing",
+		"description": "A climbing snap pea with lovely bicolored pink-purple flowers. Sweet, crunchy snap peas have a purple stripe running down the center of the pod; best eating is after the pods fatten but before the stripe darkens. Will definitely prefer a trellis or fence to climb, since the vines can reach 6 ft or more! Developed by seed guru Dr. Alan Kapular at Peace Seeds, we’re excited to offer this pea variety."
+	},
+	"ground_cherry": {
+		"full": "Cossack Pineapple Ground Cherry",
+		"type": "fruit",
+		"total": 200,
+		"sunlight": "full",
+		"season": "May-June",
+		"plant": "Sow seeds 1/4\" deep at 3\" spacing",
+		"maturity": 70,
+		"description": "Ground cherries are unusual fruits with a distinct pineapple taste. Similar to their tomatillo relatives, the 1/2\" fruits are enclosed in a papery husk and hang underneath the sprawling plant like small lanterns. Once fully ripe, fruits turn yellow with a dry husk and drop to the ground. A wonderful choice for children's gardens. Plant at least 2 plants for cross-pollination. Move over, kale – we predict that this sweet garden surprise is about to be the next big food trend."
+	},
+	"beet": {
+		"full": "Guardsmark Chioggia Beet",
+		"type": "veg",
+		"total": 200,
+		"sunlight": "full",
+		"season": "March-August",
+		"plant": "Sow seeds 1/2\" deep at 2-6\" spacing",
+		"maturity": 60,
+		"description": "Slice into this Italian heirloom for a stunning surprise: concentric circles that alternate between brilliant pink and white. The flavor is sweeter and less beety than dark red beets. Chioggia will retain its color pattern if baked whole and then sliced just before serving."
+	},
+	"carrot": {
+		"full": "Red Core Chantenay Carrot",
+		"type": "veg",
+		"total": 900,
+		"sunlight": "full",
+		"season": "March-August",
+		"plant": "Sow seeds 1/4\" deep at 2-6\" spacing",
+		"maturity": 65,
+		"description": "This heirloom carrot has large, blunt, triangular, 4-6\" roots, making it the perfect choice for gardeners with shallow or clay soils. Wonderful sweet taste that actually improves after some time in storage. Carrots are bright orange with a clear core. A real winner!"
+	},
+	"hot_pepper": {
+		"full": "Ring of Fire Cayenne",
+		"type": "veg",
+		"total": 50,
+		"sunlight": "full",
+		"season": "May-June",
+		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"maturity": 60,
+		"description": "This is a surprisingly hot cayenne pepper! Heavy yielding bushes produce bright red peppers well into the fall, even during a cool, wet summer. Cayenne peppers have thin walls and are easily dried and stored. Start seedlings indoors in April and transplant outside in late May or early June."
+	}
+}
