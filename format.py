@@ -9,10 +9,10 @@ if __name__ == '__main__':
 	print("#garden\n")
 	for flower_type in ["flower", "lettuce", "veg", "fruit"]:
 		print(f"\n##{flower_type.title()}")
-		print("Plant |  | Season | Maturity | Plant")
-		print("----- | --- | ------ | -------- | -----")
+		print("Plant |  | Season | Maturity | Plant | Height")
+		print("----- | --- | ------ | -------- | ----- | -----")
 		for seed in seeds:
 			if seeds[seed]["type"] != flower_type:
 				continue
 			img = f"![pic](/pics/{seed}.jpg)"
-			print("{} | {} | {} | {} | {}".format(seeds[seed].get("full"), img, seeds[seed].get("season"), seeds[seed].get("maturity"), seeds[seed].get("plant")))
+			print("{} | {} | {} | {} | {} | {}".format(seeds[seed].get("full"), img, seeds[seed].get("season"), seeds[seed].get("maturity"), seeds[seed].get("plant"), seeds[seed].get("height")))
