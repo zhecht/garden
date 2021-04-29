@@ -1,12 +1,14 @@
 {
 	"bachelors_button": {
 		"full": "Bachelor's Button",
-		"type": "flower",
+		"family": "asteraceae",
+		"type": "annual",
 		"total": 200,
 		"edible": true,
 		"sunlight": "full",
 		"season": "April-May",
-		"plant": "Sow seeds 1/2\" deep at 12\" spacing",
+		"depth": "0.5in",
+		"spacing": "12in",
 		"maturity": 90,
 		"height": "2-3in",
 		"description": "Also known as cornflower, Bachelor's Button sports beautiful, clear blue flowers atop 2-3' tall gray-green foliage. Toss the edible petals on top of a salad or dessert. A favorite of pollinators and great in a border or meadow mix. Will re-seed readily."
@@ -20,7 +22,8 @@
 		"season": "70-95",
 		"sprout": "5-10",
 		"maturity": 25,
-		"plant": "Sow seeds 1/2\" deep at 3' spacing",
+		"depth": "0.5in",
+		"spacing": "3ft",
 		"description": "One of the earliest watermelons we know; superb for the North, but it also grows well in heat and drought. The flesh is red and deliciously sweet. Fruit has a dark rind and weighs 8-12 lbs each. This excellent variety was developed by our friend Glenn Drowns, owner of the Sand Hill Preservation Center in Iowa. A favorite of many gardeners across the USA. One of the best we have ever tried!"
 	},
 	"artichoke": {
@@ -31,7 +34,8 @@
 		"sunlight": "full",
 		"sprout": "10-21",
 		"season": "60-80",
-		"plant": "Sow seeds 1/4\" deep at 3-4' spacing",
+		"depth": "0.25in",
+		"spacing": "3-4ft",
 		"description": "Tasty; needs a fairly long, mild growing season, or can be grown as an annual. This colorful plant that makes a great ornamental."
 	},
 	"amaranth": {
@@ -42,7 +46,8 @@
 		"season": "65-90",
 		"maturity": 60,
 		"sprout": "3-4",
-		"plant": "Sow seeds 1/8\" deep at 12\" spacing",
+		"depth": "0.125in",
+		"spacing": "12in",
 		"description": "Beautiful, large, red, upright flower spikes and bronze-green foliage make this Mexican heirloom a real knockout in the vegetable garden. Tasty leaves are tender when picked young. Easy to grow from seed. From Opopeo, Mexico."
 	},
 	"bronze_fennel": {
@@ -52,7 +57,8 @@
 		"sunlight": "full",
 		"season": "60-70",
 		"sprout": "7-14",
-		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"depth": "0.25in",
+		"spacing": "12in",
 		"description": "A POLLINATOR FAVORITE! (Foeniculum vulgare) Very decorative bronze-hued lacy foliage. Its unusual color makes a striking accent plant, a sophisticated addition in salads or an elegant garnish. Seeds may, of course, be used like those of any fennel."
 	},
 	"endive": {
@@ -62,7 +68,8 @@
 		"sunlight": "full",
 		"season": "45-75",
 		"sprout": "5-10",
-		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"depth": "0.25in",
+		"spacing": "12in",
 		"description": "Finely cut leaves add beauty and body to salads. Blanching (by tying the heads with a broad rubber band) yields a milder-tasting green. Lends a refined slightly bitter pop to salads."
 	},
 	"wheat": {
@@ -71,7 +78,8 @@
 		"total": "1oz",
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 0\" deep at 0\" spacing",
+		"depth": "0in",
+		"spacing": "0in",
 		"description": "Here’s another very old wheat, dating to the time before wheat was improved. First brought to Arizona and the Southwest by Spanish missionaries in 1691, the “soft” grains are rounded and pale reddish in color. They make a stretchy dough that was instrumental in the development of the flour tortilla. White Sonora was the main variety available in the west, including California, up to the Civil War. This variety has recently been the object of a commercial resurgence in the Southwest, and is another type that is well tolerated by most people who suffer from celiac disease or wheat allergies. Drought tolerant, disease resistant, and highly adaptable."
 	},
 	"craig_onion": {
@@ -82,7 +90,9 @@
 		"sunlight": "full",
 		"season": "45-80",
 		"sprout": "7-14",
-		"plant": "Sow seeds 1/4\" deep at 8\" spacing",
+		"height": "2ft",
+		"depth": "0.25in",
+		"spacing": "8in",
 		"description": "Long day. Very well-known globe-shaped heirloom onion that reaches a really huge size—5 lbs is rather common! The skin is a pale yellow and the flesh is relatively mild and sweet, so is recommended for fresh use—not a storage type. Introduced in 1887 by David Murray, gardener for the Marquis of Ailsa, at Culzean Castle in Maybole, South Ayrshire, Scotland."
 	},
 	"parsnip": {
@@ -93,7 +103,8 @@
 		"sunlight": "full",
 		"season": "50-75",
 		"sprout": "21-28",
-		"plant": "Sow seeds 1/4\" deep at 6\" spacing",
+		"depth": "0.25in",
+		"spacing": "6in",
 		"description": "Tasty, white, long roots, sweet flavor. Harvest after frost; a standard in all fall gardens. A popular variety in the 1820s."
 	},
 	"cauliflower": {
@@ -104,7 +115,8 @@
 		"sunlight": "full",
 		"season": "50-75",
 		"sprout": "7-10",
-		"plant": "Sow seeds 1/4\" deep at 18-20\" spacing",
+		"depth": "0.25in",
+		"spacing": "20in",
 		"description": "Nutty, sweet flavor and incredible fractal patterns in a stunning creamy white color make this a favorite cauliflower in Italy. A beloved heirloom hailing from Jesi, Italy, this mild-flavored variety is perfectly suited to marketing. In Italy it is called “snail cauliflower” for its funny twirled patterns, and it is a favorite of world-renowned chef Peter Gilmore."
 	},
 	"sage": {
@@ -114,7 +126,8 @@
 		"sunlight": "full",
 		"season": "60-70",
 		"sprout": "7-21",
-		"plant": "Sow seeds surface deep at 12\" spacing",
+		"depth": "surface",
+		"spacing": "12in",
 		"description": "Used in Europe and America to flavor many meats, stuffings, vinegars, and more! Fragrant leaves are also used in potpourri. 20-inch-tall gray-green plants are quite attractive."
 	},
 	"thyme": {
@@ -124,7 +137,8 @@
 		"sunlight": "full",
 		"season": "70",
 		"sprout": "14-28",
-		"plant": "Sow seeds surface deep at 9\" spacing",
+		"depth": "surface",
+		"spacing": "9in",
 		"description": "Spreading perennial that forms thick mats with tight clusters of rose-purple flowers. Very fragrant; useful for planting between stepping stones and at the edge of walkways. Used in cooking and for medicinal purposes."
 	},
 	"milady": {
@@ -134,17 +148,21 @@
 		"sunlight": "full",
 		"season": "70-85",
 		"sprout": "10-14",
-		"plant": "Sow seeds 1/4\" deep at 6-12\" spacing",
+		"depth": "0.25in",
+		"spacing": "6-12in",
 		"description": "A sweet dwarf aster with a profusion of large 3-inch flowers for a perfectly pink party on the patio. Suited for borders or container gardening and is a butterfly magnet. Heat resistant and worry free. So pretty and pale pink! Plants are compact with a hight around 5 inches tall and 7 inches wide."
 	},
 	"ageratum": {
 		"full": "Ageratum Mix",
-		"type": "flower",
+		"family": "asteraceae",
+		"type": "annual",
 		"total": 150,
 		"sunlight": "full",
 		"season": "60-90",
 		"sprout": "7-10",
-		"plant": "Sow seeds surface deep at 9-12\" spacing",
+		"height": "2.5ft",
+		"depth": "surface",
+		"spacing": "9-12in",
 		"description": "Annual. Old-fashioned favorite in gentle pastel tones of lavender, blue and white. Ageratum flowers make a lot of nectar and support beneficial insect populations. They are also a choice plant for the front of the border, in rock gardens and more. So precious."
 	},
 	"peppermint": {
@@ -154,7 +172,8 @@
 		"sunlight": "full",
 		"season": "60-90",
 		"sprout": "7-15",
-		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"depth": "0.25in",
+		"spacing": "12in",
 		"description": "A lovely red-and-white mottled balsam variety that really makes a beautiful statement in the garden. Splashy color over a long period on upright 2-feet- tall lovely plants. Fast blooming direct from seed."
 	},
 	"bells_of_ireland": {
@@ -163,7 +182,8 @@
 		"total": 250,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 0\" deep at 0\" spacing",
+		"depth": "0in",
+		"spacing": "0in",
 		"description": "Hardy annual. (Moluccella laevis) Tiny white flowers in large green bell-shaped calyxes. Great as a cut flower, fresh or dried. This old-time plant has been cultivated since 1570. Very easy to grow."
 	},
 	"hollyhock": {
@@ -173,7 +193,8 @@
 		"sunlight": "full",
 		"season": "65-90",
 		"sprout": "10-14",
-		"plant": "Sow seeds surface deep at 14\" spacing",
+		"depth": "surface",
+		"spacing": "14in",
 		"description": "Wonderful shades of soft to bright pink flowers. Tall plants produce old-fashioned single flowers. Hardy and easy to grow, this variety blooms the first year. Beautiful!"
 	},
 	"poppy": {
@@ -183,17 +204,21 @@
 		"sunlight": "full",
 		"season": "60-65",
 		"sprout": "14-21",
-		"plant": "Sow seeds 1/4\" deep at 10\" spacing",
+		"depth": "0.25in",
+		"spacing": "10in",
 		"description": "Annual. Enormous flowers reach six inches across. Each one is intricately crinkled and feathered or frilled, of unbelievably vivid scarlet, and at the center of each is a large, snow-white Greek cross. The variety does indeed resemble the national flag of Denmark, which consists of a white cross on a scarlet field. Flowers attain a height of about 30 inches. Breathtaking in mass plantings!"
 	},
 	"cosmos_apricot": {
 		"full": "Apricot Lemonade Cosmos",
-		"type": "flower",
+		"family": "asteraceae",
+		"type": "",
 		"total": 40,
 		"sunlight": "full",
 		"season": "70-75",
+		"height": "2ft",
 		"sprout": "7-14",
-		"plant": "Sow seeds 1/8\" deep at 10\" spacing",
+		"depth": "0.125in",
+		"spacing": "10in",
 		"description": "A silky soft palette of unique color combinations has made apricot lemonade one of the most highly sought after flowers. Each bloom with its own personality, this is the first cosmos variety known to combine sumptuous shades of buttery lemon, pink and apricot. A truly whimsical display in the landscape or for fine arrangements. Home gardeners and flower farmers alike will adore apricot lemonade as cosmos are one of the easiest flowers to grow from seed; however its romantic look delivers the elegance and sophistication of fine gardening and floral work. Honeybees and native pollinators can’t get enough of this alluring bloom either. You will find the dainty blooms a magnet for pollination."
 	},
 	"giant_mustard": {
@@ -203,7 +228,8 @@
 		"total": 100,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 0\" deep at 0\" spacing",
+		"depth": "0in",
+		"spacing": "0in",
 		"description": "The leaves of this monstrous mustard from China reach an astounding 3 feet long and 1.5 feet wide. We enjoy this variety for its large succulent leaves and thick, crunchy white midrib. The flavor is exceptionally sweet and mild for a mustard, making it suitable for raw eating in salads and a top choice for pickles, stir fry and steaming."
 	},
 	"mizuna": {
@@ -214,7 +240,8 @@
 		"sunlight": "full",
 		"sprout": "5-8",
 		"season": "55-70",
-		"plant": "Sow seeds 1/4\" deep at 6-12\" spacing",
+		"depth": "0.25in",
+		"spacing": "6-12in",
 		"description": "A delicious and ornamental mizuna from Japan. A perfectly pleasing combination of dense nutrition, rich flavor and eye appeal. The stems of this variety are a lavender-pink hue, which indicates high levels of the antioxidant, anthocyanin. The delicious leaves will often take on a pink color as well when grown in favorable conditions! Mizuna is one of the healthiest vegetables that you can grow, exceptionally high in vitamins C as well as folate and the powerful antioxidant, glucosinolate. This feathery light green is suitable for raw eating in complex and flavorful salads or try steaming or stir frying. An upscale Japanese leafy green, essential for high-end, gourmet culinary experimentation, or anyone looking to introduce a scrumptious new super food into their repertoire."
 	},
 	"yarrow": {
@@ -224,7 +251,8 @@
 		"sunlight": "full",
 		"season": "50-80",
 		"sprout": "14-21",
-		"plant": "Sow seeds surface deep at 12\" spacing",
+		"depth": "surface",
+		"spacing": "12in",
 		"description": "The Pearl is a relative of common yarrow and was popular during the Victorian era. From pollinator attractor to medicinal plant and cut flower, this highly ornamental herb plays many roles. Plants reach 2-3 feet tall and produce gobs of cheerful white pompoms, which are alluring to many small pollinators. The Latin name Achillea is a reference to the healing properties of the plant, as it is said that the soldiers commanded by Greek mythological warrior Achilles used yarrow to treat their wounds. Also a versatile cut flower, it can be used fresh or dried as an everlasting."
 	},
 	"petunia": {
@@ -234,7 +262,8 @@
 		"sunlight": "full",
 		"sprout": "7-14",
 		"season": "75-80",
-		"plant": "Sow seeds surface deep at 6-8\" spacing",
+		"depth": "surface",
+		"spacing": "6-8in",
 		"description": "A native wildflower of South America with fascinating history. The low-growing, heat-tolerant Petunia violacea is floriferous and easy to grow, blooming all summer long. Native to the Ecuador highlands, this plant was traditionally used as a hallucinogenic, with reported sensations of flying or floating. Because the chemicals have not been widely studied, we recommend against ingesting or experimenting with it. We do, however, love it as a versatile bedding or container plant."
 	},
 	"jet_black": {
@@ -243,7 +272,8 @@
 		"total": 35,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 0\" deep at 0\" spacing",
+		"depth": "0in",
+		"spacing": "0in",
 		"description": "Biennial. This variety was mentioned in 1629 and was planted in the gardens at Monticello by Thomas Jefferson. This traditional variety is shockingly beautiful with its near-black flowers with just a hint of red. Gorgeous planted out by the old white outhouse or in the back of your flower bed. A must for historical gardens. You’ll love this richly-colored variety."
 	},
 	"bok_choy": {
@@ -254,7 +284,8 @@
 		"sunlight": "partial/full",
 		"season": "60-80",
 		"sprout": "10-14",
-		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"depth": "0.25in",
+		"spacing": "12in",
 		"description": "A perfected medium-sized bok choy that is popular with market gardeners in China for its fabulous flavor and high-quality heads. A superior variet in every way - the crisp and tender heads are tightly packed and remain scrumptious even as the leaves get large."
 	},
 	"broccoli": {
@@ -264,7 +295,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "Mar-Apr & Jun-Jul",
-		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"depth": "0.25in",
+		"spacing": "12in",
 		"maturity": 60,
 		"description": "Traditional italian variety with 3-4\" heads with non-uniform shoots. Great for Spring and Fall."
 	},
@@ -275,7 +307,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 4\" spacing",
+		"depth": "0.5in",
+		"spacing": "4in",
 		"maturity": 90,
 		"description": "A prolific producing plant that can easily put out 10-15 of these pumpkins. Super tiny and cute in every way, these look great as decoration but are also edible as a squash. Slightly stringy, but much sweeter than almost all of the pumpkin varieties."
 	},
@@ -286,7 +319,8 @@
 		"edible": true,
 		"sunlight": "full/partial",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 2\" spacing",
+		"depth": "0.5in",
+		"spacing": "2in",
 		"maturity": 40,
 		"description": "This thin leafed mustard is one of the most under-appreciated mustard variety. Used in specialty asian cooking, it is also great in salads, soups, stir fries, sauteed, and can be enjoyed young and older as the flavor is not as spicy as other mustards. Plants grow from a center base that causes the leaves to splayed outward and not grow upright. This gives plans a very grassy unique shape that looks amazing in the garden."
 	},
@@ -297,7 +331,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/4\" deep at 6\" spacing",
+		"depth": "0.25in",
+		"spacing": "6in",
 		"description": "Annual. Cute little 6\" plants, great for containers! Spicy, anise flavor. A must for Greek cooking"
 	},
 	"dill": {
@@ -308,7 +343,8 @@
 		"sunlight": "full/partial",
 		"season": "",
 		"maturity": 65,
-		"plant": "Sow seeds 1/4\" deep at 10\" spacing",
+		"depth": "0.25in",
+		"spacing": "10in",
 		"description": "This tall variety grows up to 3-4 feet. Ferns are large and extremely fragrant. The perfect picking variety. Leaves, immature flowers, and mature seeds make the ideal pickling spices. A must have in a garden for pest control and beneficial insect attraction."
 	},
 	"chives": {
@@ -318,7 +354,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/4\" deep at 4\" spacing",
+		"depth": "0.25in",
+		"spacing": "4in",
 		"description": "This hardy perennial herb is a must for all vegetable gardens. The hollow, grass-like leaves have an onion like flavor and are frequently used for flavoring salads, soups, and stews. Grows well in pots."
 	},
 	"honeydew_melon": {
@@ -328,7 +365,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 12\" spacing",
+		"depth": "0.5in",
+		"spacing": "12in",
 		"maturity": 105,
 		"description": "Flesh is emerald green and sweet. An excellent shipper with hard, creamy white rind. The non-GMO green flesh honeydew melon seeds produce smooth, cream colored melons with green interiors and a sweet flavor."
 	},
@@ -339,7 +377,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 18-24\" spacing",
+		"depth": "0.5in",
+		"spacing": "18-24in",
 		"maturity": 100,
 		"description": "Brussels Sprouts can be grown in colder climates, and the crop is very tolerant of frost. While the sprouts can take up to one hundred days to reach maturity, they make great crops to grow during the winter and colder months of the year."
 	},
@@ -350,7 +389,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/4\" deep at 2-6\" spacing",
+		"depth": "0.25in",
+		"spacing": "2-6in",
 		"maturity": 100,
 		"description": "Non-GMO Large American Flag seeds produce leeks with large stems and leaves. This hardy crop can tolerate cold climates and can grow in zones 3-9. Leeks have a mild flavor, similar to onions, and can be used in stews, soups, and salads."
 	},
@@ -362,7 +402,8 @@
 		"sunlight": "full",
 		"height": "12in",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 6\" spacing",
+		"depth": "0.5in",
+		"spacing": "6in",
 		"maturity": 90,
 		"description": "Recommended by USU. Some say this is the world's best tasting onion. A delicious, mild, sweet onion, measuring about 4 inches across. In mild-winter areas plant in August for harvest early next summer. Does not keep well."
 	},
@@ -374,7 +415,8 @@
 		"sunlight": "full",
 		"height": "12in",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 1\" spacing",
+		"depth": "0.5in",
+		"spacing": "1in",
 		"maturity": 115,
 		"description": "Intermediate day type. Recommended by USU. Large bulbs sometimes weighing a pound or more. Sweet and mild flavored. Has fair storage characteristics. Moderate Pink Root tolerance. Well adapted to the Western States."
 	},
@@ -386,7 +428,8 @@
 		"sunlight": "full",
 		"height": "6-12ft",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 3' spacing",
+		"depth": "0.5in",
+		"spacing": "3ft",
 		"maturity": 75,
 		"description": "Everbearing runner variety. In full sun, medium-large fruit saturated with sweetness and nutritious goodness; a fast grower; can be harvested every 3 to 4 days. Shiny, deep green leaves; large, early blooms. Hardy to zone 5."
 	},
@@ -397,7 +440,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/4\" deep at 2-6\" spacing",
+		"depth": "0.25in",
+		"spacing": "2-6in",
 		"maturity": 100,
 		"description": "Non-GMO Large American Flag seeds produce leeks with large stems and leaves. This hardy crop can tolerate cold climates and can grow in zones 3-9. Leeks have a mild flavor, similar to onions, and can be used in stews, soups, and salads."
 	},
@@ -408,7 +452,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/4\" deep at 1\" spacing",
+		"depth": "0.25in",
+		"spacing": "1in",
 		"height": "3ft",
 		"description": "Often listed with the herbs (as here) this strain is really the vegetable fennel raised for the overlapping thickened leaf stalks which form a bulb at the base of the plant. Use bulb raw in salads or steamed, stir-fired, braised or baked. Use the fern-like tops as a fresh or dried herb toa add a licorice-like flavor to foods or tea."
 	},
@@ -418,19 +463,23 @@
 		"total": 2000,
 		"sunlight": "full",
 		"season": "",
-		"plant": "Sow seeds 1/2\" deep at 1/2\" spacing",
+		"depth": "0.5in",
+		"spacing": "0.5in",
 		"maturity": 80,
 		"height": "3ft",
 		"description": "German Chamomile (Matricaria recutita) is most noted for its use in alleviating inflammation and stress. Its tiny flowers emit a sweet fruity fragrance."
 	},
 	"marigold": {
 		"full": "African Marigold",
-		"type": "flower",
+		"name": "Tagetes erecta",
+		"type": "annual",
+		"family": "asteraceae",
 		"total": 100,
 		"sunlight": "full",
 		"season": "May-June",
 		"height": "3ft",
-		"plant": "Sow seeds 1/2\" deep and thin to 12\" spacing",
+		"depth": "0.5in",
+		"spacing": "12in",
 		"description": "This marigold has large, brilliant orange and yellow flowers and bushy deep green foliage. Larger than most marigold varieties, plants reach over 3 feet tall. Marigolds are a helpful companion plant in the garden, discouraging many pests with their strong scent."
 	},
 	"classic_sunflower": {
@@ -440,7 +489,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "May-June",
-		"plant": "Sow 1\" deep at 8\"-14\" spacing",
+		"depth": "1in",
+		"spacing": "8-14in",
 		"maturity": 80,
 		"height": "6-9ft",
 		"description": "This old-fashioned sunny sunflower grows 6-9 feet tall. Large flowering heads have beautiful bright yellow petals with yellow-green centers and produce edible white seeds. Great for attracting birds to your garden, or planting a sunflower house for children. Easy to grow; tolerates a wide range of soil types and conditions."
@@ -452,7 +502,8 @@
 		"edible": true,
 		"sunlight": "full",
 		"season": "May-June",
-		"plant": "Sow 1\" deep at 8-14\" spacing",
+		"depth": "1in",
+		"spacing": "8-14in",
 		"maturity": 80,
 		"height": "6-8in",
 		"description": "Our Tiger's Eye mix is an exciting variation on the standard sunflower. This multi-headed variety has a mix of single and double blooms with petal colors ranging from pale yellow to deep maroon. Sturdy 6-8' plants grow well even in hot, dry locations with low soil fertility. Wonderful clustered along a fence or anywhere you want to attract birds, bees, and even hummingbirds."
@@ -481,7 +532,8 @@
 		"type": "veg",
 		"total": 3000,
 		"sunlight": "full",
-		"plant": "Sow seeds 1/4\" deep at 3-6\" spacing",
+		"depth": "0.25in",
+		"spacing": "3-6in",
 		"season": "March-April,September",
 		"maturity": 55,
 		"description": "Classic purple and white turnip with sweet-sharp flesh that remains crisp and flavorful even when large. Stores extremely well. Edible greens make a tasty, nutrient-rich addition to sautés and stews. For best flavor and texture, plant in late summer and harvest after a frost or two."
@@ -491,7 +543,8 @@
 		"type": "veg",
 		"total": 50,
 		"sunlight": "full / light shade",
-		"plant": "Sow 2-3 seeds 1\" deep at 2-3 feet spacing",
+		"depth": "1in",
+		"spacing": "2-3ft",
 		"season": "May-June",
 		"maturity": 65,
 		"description": "This is the classic slicing cucumber. Straight 8\" dark green fruit that snap crisp and cool in the heat of summer. Perfect in salads or sandwiches. Try with yogurt, lemon, and garlic. Also makes a fine pickle. Productive plants like to be picked early and often."
@@ -504,7 +557,8 @@
 		"season": "March-April,September",
 		"maturity": 21,
 		"microgreen": true,
-		"plant": "Sow seeds 1/4\" deep at 2-6\" spacing",
+		"depth": "0.25in",
+		"spacing": "2-6in",
 		"description": "Arugula adds a spicy flavor to salads, sandwiches, or just about any meal. Great tasting raw or lightly cooked. Tender leaves will regrow if cut 1/2\" above ground. For best performance and flavor, plant early in the spring and again in late-summer for a fall harvest."
 	},
 	"kale": {
@@ -514,7 +568,8 @@
 		"sunlight": "full",
 		"season": "March-April,September",
 		"maturity": 65,
-		"plant": "Sow seeds 1/4\" deep at 12-18\" spacing",
+		"depth": "0.25in",
+		"spacing": "12-18in",
 		"description": "This unique purple dino kale has deeply curled leaves in dark green with bright purple stems and veins. Tender and tasty, growing sweeter after a frost. For continuous harvests, snap large leaves off from the bottom of the stem and allow the top to continue producing. Originally developed by Frank Morton of Wild Garden Seed. OSSI (Open Source Seed Initiative) Pledged Variety."
 	},
 	"lettuce_Mix": {
@@ -538,7 +593,8 @@
 		"total": 200,
 		"sunlight": "full",
 		"season": "May-June",
-		"plant": "Sow seeds 1/4\" deep at 3\" spacing",
+		"depth": "0.25in",
+		"spacing": "3ft",
 		"maturity": 70,
 		"description": "Ground cherries are unusual fruits with a distinct pineapple taste. Similar to their tomatillo relatives, the 1/2\" fruits are enclosed in a papery husk and hang underneath the sprawling plant like small lanterns. Once fully ripe, fruits turn yellow with a dry husk and drop to the ground. A wonderful choice for children's gardens. Plant at least 2 plants for cross-pollination. Move over, kale – we predict that this sweet garden surprise is about to be the next big food trend."
 	},
@@ -548,7 +604,8 @@
 		"total": 200,
 		"sunlight": "full",
 		"season": "March-August",
-		"plant": "Sow seeds 1/2\" deep at 2-6\" spacing",
+		"depth": "0.5in",
+		"spacing": "2-6in",
 		"maturity": 60,
 		"description": "Slice into this Italian heirloom for a stunning surprise: concentric circles that alternate between brilliant pink and white. The flavor is sweeter and less beety than dark red beets. Chioggia will retain its color pattern if baked whole and then sliced just before serving."
 	},
@@ -558,7 +615,8 @@
 		"total": 900,
 		"sunlight": "full",
 		"season": "March-August",
-		"plant": "Sow seeds 1/4\" deep at 2-6\" spacing",
+		"depth": "0.25in",
+		"spacing": "2-6in",
 		"maturity": 65,
 		"description": "This heirloom carrot has large, blunt, triangular, 4-6\" roots, making it the perfect choice for gardeners with shallow or clay soils. Wonderful sweet taste that actually improves after some time in storage. Carrots are bright orange with a clear core. A real winner!"
 	},
@@ -568,7 +626,8 @@
 		"total": 50,
 		"sunlight": "full",
 		"season": "May-June",
-		"plant": "Sow seeds 1/4\" deep at 12\" spacing",
+		"depth": "0.25in",
+		"spacing": "12in",
 		"maturity": 60,
 		"description": "This is a surprisingly hot cayenne pepper! Heavy yielding bushes produce bright red peppers well into the fall, even during a cool, wet summer. Cayenne peppers have thin walls and are easily dried and stored. Start seedlings indoors in April and transplant outside in late May or early June."
 	}

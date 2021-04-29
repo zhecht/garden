@@ -1,0 +1,26 @@
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100%;
+}
+
+#mainTable {
+	width: 80%;
+	height: 90%;
+}
+
+#mainTable img {
+	width: 100%;
+	max-height: 150px;
+}
+
+.data {
+	display: flex;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+	font-size:18px;
+}

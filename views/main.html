@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CurrentZee's Farm</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+		<link href="https://unpkg.com/tabulator-tables@4.9.3/dist/css/tabulator.min.css" rel="stylesheet">
+		<link href="/static/css/main.css" rel="stylesheet"></link>
+		<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.9.3/dist/js/tabulator.min.js"></script>
+	</head>
+	<body>
+		<div id="mainTable"></div>
+		<script>
+			const tabledata = {{data|tojson}};
+		</script>
+		<script src="/static/js/main.js"></script>
+	</body>
+</html>
