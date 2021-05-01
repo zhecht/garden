@@ -4,7 +4,6 @@
 		"family": "asteraceae",
 		"type": "annual",
 		"total": 200,
-		"edible": true,
 		"sunlight": "full",
 		"season": "April-May",
 		"depth": "0.5in",
@@ -13,22 +12,36 @@
 		"height": "2-3in",
 		"description": "Also known as cornflower, Bachelor's Button sports beautiful, clear blue flowers atop 2-3' tall gray-green foliage. Toss the edible petals on top of a salad or dessert. A favorite of pollinators and great in a border or meadow mix. Will re-seed readily."
 	},
+	"corn": {
+		"full": "Golden Bantam Corn",
+		"type": "annual",
+		"name": "zea mays",
+		"total": 150,
+		"sunlight": "full",
+		"season": "full",
+		"depth": "1-2in",
+		"spacing": "4in",
+		"maturity": 75,
+		"description": "Non-GMO, heirloom. 82 days. Open pollinated. Corn seed may be saved after harvest for planting in subsequent years. This hardy variety has 5 to 6 inch ears of good quality for an open pollinated sweet corn. Equally suited for freezing and fresh-eating. Approx. 150 seeds/oz. The Golden Bantam variety of corn seeds were developed to be earlier and sweeter than other types of corn, and became well known for its vibrant, golden color. The stalks provide five to six inch long ears, and can tolerate dry temperatures."
+	},
 	"watermelon": {
 		"full": "Blacktail Mountain Watermelon",
-		"type": "veg",
+		"family": "cucurbitaceae",
+		"type": "annual",
 		"total": 150,
-		"edible": true,
 		"sunlight": "full",
 		"season": "70-95",
 		"sprout": "5-10",
-		"maturity": 25,
+		"height": "14in",
+		"maturity": 80,
 		"depth": "0.5in",
 		"spacing": "3ft",
 		"description": "One of the earliest watermelons we know; superb for the North, but it also grows well in heat and drought. The flesh is red and deliciously sweet. Fruit has a dark rind and weighs 8-12 lbs each. This excellent variety was developed by our friend Glenn Drowns, owner of the Sand Hill Preservation Center in Iowa. A favorite of many gardeners across the USA. One of the best we have ever tried!"
 	},
 	"artichoke": {
 		"full": "Green Globe Artichoke",
-		"type": "veg",
+		"type": "annual",
+		"family": "asteraceae",
 		"total": 150,
 		"edible": true,
 		"sunlight": "full",
@@ -36,7 +49,21 @@
 		"season": "60-80",
 		"depth": "0.25in",
 		"spacing": "3-4ft",
+		"height": "4ft",
+		"maturity": 120,
 		"description": "Tasty; needs a fairly long, mild growing season, or can be grown as an annual. This colorful plant that makes a great ornamental."
+	},
+	"nasturtium": {
+		"full": "Jewel Mix Nasturtium",
+		"family": "asteraceae",
+		"name": "Tropaeolum majus",
+		"from": "trueleafmarket",
+		"type": "",
+		"height": "2ft",
+		"maturity": 58,
+		"depth": ".125in",
+		"spacing": "2ft",
+		"description": "54 – 63 days. Jewel Mix nasturtium is brilliant, easy to grow from seed, and perfectly suited for many dry and temperate climates. Jewel Mix seeds will excite your home, patio, and garden with fast-growing 18 – 24” tall nasturtium bursting with 2½” papery blooms of canary, peach, carmine, and salmon. Jewel Mix nasturtium seeds are vigorous garden performers and ideal for kids or novice gardeners to try as vibrant accent to flower beds, fences, and walkways. With exception to its roots, Jewel Mix nasturtium is a popularly edible variety including worldwide use of its leaves, pods, seeds, buds, and especially its flowers."
 	},
 	"amaranth": {
 		"full": "Opopeo Amaranth",
@@ -52,7 +79,8 @@
 	},
 	"bronze_fennel": {
 		"full": "Bronze Fennel",
-		"type": "herb",
+		"family": "apiaceae",
+		"type": "annual",
 		"total": 100,
 		"sunlight": "full",
 		"season": "60-70",
@@ -63,7 +91,7 @@
 	},
 	"endive": {
 		"full": "Curly Endive",
-		"type": "herb",
+		"family": "asteraceae",
 		"total": 300,
 		"sunlight": "full",
 		"season": "45-75",
@@ -84,7 +112,8 @@
 	},
 	"craig_onion": {
 		"full": "Alisa Craig Onion",
-		"type": "veg",
+		"family": "alliaceae",
+		"type": "annual",
 		"total": 300,
 		"edible": true,
 		"sunlight": "full",
@@ -93,11 +122,12 @@
 		"height": "2ft",
 		"depth": "0.25in",
 		"spacing": "8in",
+		"maturity": 110,
 		"description": "Long day. Very well-known globe-shaped heirloom onion that reaches a really huge size—5 lbs is rather common! The skin is a pale yellow and the flesh is relatively mild and sweet, so is recommended for fresh use—not a storage type. Introduced in 1887 by David Murray, gardener for the Marquis of Ailsa, at Culzean Castle in Maybole, South Ayrshire, Scotland."
 	},
 	"parsnip": {
 		"full": "Hollow Crown Parsnip",
-		"type": "veg",
+		"family": "apiaceae",
 		"total": 600,
 		"edible": true,
 		"sunlight": "full",
@@ -109,7 +139,7 @@
 	},
 	"cauliflower": {
 		"full": "De Jesi Cauliflower",
-		"type": "veg",
+		"family": "brassicaceae",
 		"total": 150,
 		"edible": true,
 		"sunlight": "full",
@@ -178,7 +208,7 @@
 	},
 	"bells_of_ireland": {
 		"full": "Bells of Ireland",
-		"type": "flower",
+		"family": "asteraceae",
 		"total": 250,
 		"sunlight": "full",
 		"season": "",
@@ -186,9 +216,36 @@
 		"spacing": "0in",
 		"description": "Hardy annual. (Moluccella laevis) Tiny white flowers in large green bell-shaped calyxes. Great as a cut flower, fresh or dried. This old-time plant has been cultivated since 1570. Very easy to grow."
 	},
+	"celery": {
+		"full": "Utah 52-70 Celery",
+		"type": "annual",
+		"family": "apiaceae",
+		"name": "Apium Graveolens",
+		"depth": ".25in",
+		"spacing": "12in",
+		"sunlight": "full/partial",
+		"from": "trueleafmarket",
+		"total": 3750,
+		"maturity": 100,
+		"description": "The Utah 52-70 can be sown indoors and transplanted after ten to twelve weeks, or can be sown directly outdoors ten to twelve weeks before the last average frost of the season. These seeds do best in moist soil with a pH level between six and seven. Sow the celery seeds a quarter inch deep in the soil, with twelve inches between plants and eighteen to twenty four inches between rows. While growing, the Utah 52-70 crops will need plenty of constant watering. When the stalks have reached at least six inches tall, they can be harvested by cutting at the base. The stalks can be refrigerated and used within a couple of weeks."
+	},
+	"gourd": {
+		"full": "Gourd seeds",
+		"type": "annual",
+		"family": "cucurbitaceae",
+		"name": "Cucurbita pepo",
+		"depth": ".25in",
+		"spacing": "5ft",
+		"trellis": true,
+		"sunlight": "full",
+		"from": "trueleafmarket",
+		"total": 60,
+		"maturity": 100,
+		"description": "Gourd seeds can be sown directly outdoors by planting one inch deep with five feet between plants and eight feet between rows. While growing, be sure not to overwater, as doing so can cause rot and mildew to spread throughout the vine. When the Gourds are ready to be harvested, the stems will turn yellow and can be cut off the vine."
+	},
 	"hollyhock": {
 		"full": "Indian Spring Hollyhock",
-		"type": "flower",
+		"family": "asteraceae",
 		"total": 35,
 		"sunlight": "full",
 		"season": "65-90",
@@ -199,7 +256,7 @@
 	},
 	"poppy": {
 		"full": "Danish Flag Poppy",
-		"type": "flower",
+		"family": "asteraceae",
 		"total": 600,
 		"sunlight": "full",
 		"season": "60-65",
@@ -223,8 +280,7 @@
 	},
 	"giant_mustard": {
 		"full": "Chinese Giant Leaf Mustard",
-		"type": "lettuce",
-		"edible": true,
+		"family": "brassicaceae",
 		"total": 100,
 		"sunlight": "full",
 		"season": "",
@@ -234,7 +290,7 @@
 	},
 	"mizuna": {
 		"full": "Japanese Pink Mizuna",
-		"type": "lettuce",
+		"family": "asteraceae",
 		"edible": true,
 		"total": 50,
 		"sunlight": "full",
@@ -246,7 +302,7 @@
 	},
 	"yarrow": {
 		"full": "Double Diamond Pearl Yarrow",
-		"type": "flower",
+		"family": "asteraceae",
 		"total": 200,
 		"sunlight": "full",
 		"season": "50-80",
@@ -268,7 +324,7 @@
 	},
 	"jet_black": {
 		"full": "Jet Black or Nigra Hollyhock",
-		"type": "flower",
+		"family": "asteraceae",
 		"total": 35,
 		"sunlight": "full",
 		"season": "",
@@ -290,7 +346,7 @@
 	},
 	"broccoli": {
 		"full": "De Cicco Broccoli",
-		"type": "veg",
+		"family": "brassicaceae",
 		"total": 0,
 		"edible": true,
 		"sunlight": "full",
@@ -302,7 +358,7 @@
 	},
 	"pumpkin": {
 		"full": "Jack Be Little Pumpkin",
-		"type": "veg",
+		"family": "cucurbitaceae",
 		"total": 15,
 		"edible": true,
 		"sunlight": "full",
@@ -314,7 +370,7 @@
 	},
 	"mustard": {
 		"full": "Mibuna Mustard",
-		"type": "lettuce",
+		"family": "brassicaceae",
 		"total": 150,
 		"edible": true,
 		"sunlight": "full/partial",
@@ -326,7 +382,7 @@
 	},
 	"basil": {
 		"full": "Greek Dwarf Basil",
-		"type": "herb",
+		"family": "asteraceae",
 		"total": 100,
 		"edible": true,
 		"sunlight": "full",
@@ -349,7 +405,7 @@
 	},
 	"chives": {
 		"full": "Garlic Chives",
-		"type": "herb",
+		"family": "alliaceae",
 		"total": 200,
 		"edible": true,
 		"sunlight": "full",
@@ -360,11 +416,12 @@
 	},
 	"honeydew_melon": {
 		"full": "Honeydew Melon",
-		"type": "fruit",
+		"family": "cucurbitaceae",
+		"name": "Cucumis melo",
 		"total": 175,
-		"edible": true,
 		"sunlight": "full",
-		"season": "",
+		"season": "70",
+		"trellis": true,
 		"depth": "0.5in",
 		"spacing": "12in",
 		"maturity": 105,
@@ -372,7 +429,7 @@
 	},
 	"brussels_sprouts": {
 		"full": "Brussel Sprouts",
-		"type": "veg",
+		"family": "brassicaceae",
 		"total": 120000,
 		"edible": true,
 		"sunlight": "full",
@@ -435,9 +492,9 @@
 	},
 	"leek": {
 		"full": "Large American Flag Leek",
-		"type": "herb",
+		"type": "annual",
+		"family": "alliaceae",
 		"total": 10000,
-		"edible": true,
 		"sunlight": "full",
 		"season": "",
 		"depth": "0.25in",
@@ -447,9 +504,9 @@
 	},
 	"fennel": {
 		"full": "Florence Fennel",
-		"type": "herb",
+		"type": "annual",
+		"family": "apiaceae",
 		"total": 2000,
-		"edible": true,
 		"sunlight": "full",
 		"season": "",
 		"depth": "0.25in",
@@ -459,15 +516,17 @@
 	},
 	"chamomile": {
 		"full": "German Chamomile",
-		"type": "herb",
+		"type": "annual",
+		"family": "asteraceae",
+		"name": "Matricaria chamomilla",
 		"total": 2000,
 		"sunlight": "full",
 		"season": "",
-		"depth": "0.5in",
-		"spacing": "0.5in",
-		"maturity": 80,
-		"height": "3ft",
-		"description": "German Chamomile (Matricaria recutita) is most noted for its use in alleviating inflammation and stress. Its tiny flowers emit a sweet fruity fragrance."
+		"depth": "0.25in",
+		"spacing": "8-12in",
+		"maturity": 90,
+		"height": "2ft",
+		"description": "Non-GMO, Heirloom German Chamomile Herb Garden Seed from True Leaf Market. Matricaria chamomilla. German Chamomile plants originated from Western Asia and were later cultivated in Europe—where chamomile herbs have been used for a variety of health and medicinal benefits, such as aiding inflammation and providing a relaxing tea. As German Chamomile Herbs are more common to grow and reach 1-2’ high, it shouldn’t be confused with Roman Chamomile. This German Chamomile annual variety is drought-tolerant and contains a high amount of chamazulene, providing an extra sweet and floral-scent."
 	},
 	"marigold": {
 		"full": "African Marigold",
@@ -517,19 +576,19 @@
 	},
 	"radish": {
 		"full": "Cherry Belle Radish",
-		"type": "veg",
+		"family": "brassicaceae",
 		"total": 5000,
 		"microgreen": true
 	},
 	"cabbage": {
 		"full": "Copenhagen Cabbage",
-		"type": "veg",
+		"family": "brassicaceae",
 		"total": 1500,
 		"description": "This heirloom green cabbage is perfect for home gardens, producing 3-4 lb round heads on compact plants. Heads hold well on the plant and in the fridge. Tender and sweet, Copenhagen is delicious raw, cooked or in sauerkraut."
 	},
 	"turnip": {
 		"full": "Purple Top Turnip",
-		"type": "veg",
+		"family": "brassicaceae",
 		"total": 3000,
 		"sunlight": "full",
 		"depth": "0.25in",
@@ -540,18 +599,22 @@
 	},
 	"cucumber": {
 		"full": "Marketmore '76 Cucumber",
-		"type": "veg",
+		"name": "Cucumis sativus",
+		"family": "cucurbitaceae",
+		"type": "annual",
 		"total": 50,
 		"sunlight": "full / light shade",
 		"depth": "1in",
+		"height": "1ft",
 		"spacing": "2-3ft",
 		"season": "May-June",
 		"maturity": 65,
+		"from": "a2seeds",
 		"description": "This is the classic slicing cucumber. Straight 8\" dark green fruit that snap crisp and cool in the heat of summer. Perfect in salads or sandwiches. Try with yogurt, lemon, and garlic. Also makes a fine pickle. Productive plants like to be picked early and often."
 	},
 	"arugula": {
 		"full": "Arugula",
-		"type": "lettuce",
+		"family": "asteraceae",
 		"total": 20000,
 		"sunlight": "full / light shade",
 		"season": "March-April,September",
@@ -563,7 +626,7 @@
 	},
 	"kale": {
 		"full": "Rainbow Lacinato Kale",
-		"type": "lettuce",
+		"family": "brassicaceae",
 		"total": 100,
 		"sunlight": "full",
 		"season": "March-April,September",
@@ -572,19 +635,22 @@
 		"spacing": "12-18in",
 		"description": "This unique purple dino kale has deeply curled leaves in dark green with bright purple stems and veins. Tender and tasty, growing sweeter after a frost. For continuous harvests, snap large leaves off from the bottom of the stem and allow the top to continue producing. Originally developed by Frank Morton of Wild Garden Seed. OSSI (Open Source Seed Initiative) Pledged Variety."
 	},
-	"lettuce_Mix": {
+	"lettuce_mix": {
 		"full": "Lettuce Mix",
-		"type": "lettuce",
+		"family": "asteraceae",
 		"total": 5000,
 		"description": "A blend of our lettuce varieties, perfect for small gardens or for cut-and-come-again plantings. Enjoy a mix of flavors, color and textures: romaines, red-leafed varieties, and butterheads. Grows best in cool weather."
 	},
 	"snap_pea": {
 		"full": "Magnolia Blossom Snap Pea",
-		"type": "veg",
+		"family": "fabaceae",
 		"total": 300,
 		"sunlight": "full",
 		"season": "March-May,September",
-		"plant": "Sow seeds 1\" deep at 2-4\" spacing",
+		"depth": "1in",
+		"spacing": "3in",
+		"height": "6ft",
+		"maturity": 70,
 		"description": "A climbing snap pea with lovely bicolored pink-purple flowers. Sweet, crunchy snap peas have a purple stripe running down the center of the pod; best eating is after the pods fatten but before the stripe darkens. Will definitely prefer a trellis or fence to climb, since the vines can reach 6 ft or more! Developed by seed guru Dr. Alan Kapular at Peace Seeds, we’re excited to offer this pea variety."
 	},
 	"ground_cherry": {
@@ -621,14 +687,372 @@
 		"description": "This heirloom carrot has large, blunt, triangular, 4-6\" roots, making it the perfect choice for gardeners with shallow or clay soils. Wonderful sweet taste that actually improves after some time in storage. Carrots are bright orange with a clear core. A real winner!"
 	},
 	"hot_pepper": {
-		"full": "Ring of Fire Cayenne",
-		"type": "veg",
+		"full": "Ring of Fire Cayenne Pepper",
+		"type": "solanaceae",
 		"total": 50,
 		"sunlight": "full",
 		"season": "May-June",
 		"depth": "0.25in",
 		"spacing": "12in",
 		"maturity": 60,
+		"height": "1.5ft",
+		"SHU": 20000,
 		"description": "This is a surprisingly hot cayenne pepper! Heavy yielding bushes produce bright red peppers well into the fall, even during a cool, wet summer. Cayenne peppers have thin walls and are easily dried and stored. Start seedlings indoors in April and transplant outside in late May or early June."
+	},
+	"chinese_pepper": {
+		"full": "Chinese 5-Color Pepper",
+		"family": "solanaceae",
+		"total": 50,
+		"sunlight": "full",
+		"season": "60-95",
+		"depth": "0.25in",
+		"spacing": "12in",
+		"maturity": 85,
+		"SHU": 40000,
+		"description": "Screaming-hot little peppers turn a rainbow of vibrant colors, from purple, cream, yellow, orange to red as they ripen. Need I say ornamental? The plants are great for containers inside. Just pick a few any time to liven up your salsa."
+	},
+	"pepperoncini": {
+		"full": "Pepperoncini Greek Golden Pepper",
+		"family": "solanaceae",
+		"total": 10,
+		"from": "pepperjoe",
+		"SHU": 350,
+		"maturity": 75,
+		"description":"The Italian Pepperoncini is a perfect pickling pepper and goes great on anything, and is great to eat raw and cooked too. The Italian Pepperoncini seeds produce robust Pepperoncini plants that will razzle and dazzle in your garden. The plants are extremely bushy and will give good sun protection to the 3-6-inch red peppers. Not only that, they will perform well during cooler climates. The Pepperoncini Italian pepper is a popular Italian pepper and is a delightful all-purpose pepper that can be enjoyed in many ways. The heirloom pepper will ripen from green to red, and you will love their slight hear with a sweeter flavor. If you are a pickled pepper person, this Italian pepper is the one for you!"
+	},
+	"mustard_habanero": {
+		"full": "Spicy Mustard Habanero Pepper",
+		"family": "solanaceae",
+		"total": 10,
+		"from": "pepperjoe",
+		"SHU": 200000,
+		"maturity": 100,
+		"description": "TASTE AS GOOD AS IT SOUNDS!!! Every so often we stumble on a pepper that is very special. This unique pepper is Mustard Yellow and what a blast it is to grow this beautiful gem. Although it’s on the lower end of the heat level, the Spicy Habanero Mustard hot pepper is rated a '10' on the Pepper Joe Heat Scale because of their straight-up burn when you take a bite. The Spicy Mustard Habanero pepper plant grows fairly prolific for a Habanero, and it will look stunning in your garden with its beautiful colors. Get your hands on this very rare Habanero variety. The wrinkled pods will grow to 1.5 inches long and will ripen from light green, purple, mustard-orange, and then finally an orange color. The flavors will taste tangy, fruity, and sweet, similar to a Habanero. This spicy Habanero Mustard chili makes excellent Habanero sauce, salsas, and relishes"
+	},
+	"bush_pepper": {
+		"full": "Burning Bush F1 Pepper",
+		"family": "solanaceae",
+		"from": "pepperjoe",
+		"maturity": 85,
+		"SHU": 180000,
+		"description": "Also known as Habanero Burning Bush or Burning Bush Habanero, this hybrid Habanero pepper may look similar to the Chichzen Itza. The Burning Bush seed is one of the earliest maturing Habaneros that we carry in our store, which is said to mature 2-3 weeks earlier than most Habaneros.  These wrinkled, lantern-shaped peppers are very hot with a touch of sweetness that is irresistible and turns into a flaming peach-orange color when ripe.  The taste is what you would expect from a Habanero, where it has a sweet floral taste with bitter and dark notes.  The pods will grow to 3” long and 1” wide and can be a beautiful plant for you to grow on your garden or patio!  These are great for cooking and roasting, and having these fresh on hand makes salsa or hot sauces easy and convenient to make! "
+	},
+	"thai_pepper": {
+		"full": "Thai Hot Pepper",
+		"family": "solanaceae",
+		"from": "pepperjoe",
+		"name": "Capsicum Annuum",
+		"SHU": 75000,
+		"maturity": 90,
+		"total": 10,
+		"description": "Originally from Thailand, these are fiery, attractive little sparks of flavors that you’ll never expect to taste when taking a bite of these peppers! The Thai Hot peppers look similar to sparkly red Christmas lights, especially in the same size and shape, so why not have Christmas in July? These hot and spicy Thai pepper seeds will be the perfect gift for the hot pepper lover (or for yourself because we all deserve something nice sometimes in life) because it delivers in heat, flavor, and quantity! The Thai Hot pepper plants will produce up to 200 small, conical, 1” pepper pods that will ripen from green to bright red. The Thai Hot chili is great to add in a variety of culinary dishes, or if you’re brave, to eat as a whole pod. If you like Thai cooking or any spicy Asian-style cuisine, the Thai Hot chili is perfect to grow as it is a common ingredient in many Asian dishes! You can freeze or pickle them, and they dry well for long storage. Grow some Thai pepper plants today, you won’t be disappointed.  "
+	},
+	"ghost_pepper": {
+		"full": "Bhut Jolokia Purple Pepper",
+		"family": "solanaceae",
+		"from": "pepperjoe",
+		"height": "2.5ft",
+		"SHU": 900000,
+		"maturity": 110,
+		"total": 10,
+		"description": "RARE PEPPER ALERT! Purple variants are becoming more and more popular but are still hard to come by. Pepper Joe’s is happy to bring you this gorgeous variant from the Bhut Jolokia, aka Ghost Chili Pepper. Pods grow from a dull purple to deep purple to red at maturity. They are about 1 inch long with a wrinkly, elongated shape. These beauties deliver an intensely hot, yet sweet flavor. Plants can easily grow to over 2.5 ft tall. They look great in the garden but are even better on your plate or part of your next crazy hot sauce concoction. Pick yours up today!"
+	},
+	"7pot_slimer": {
+		"full": "7 Pot Slimer Pepper",
+		"family": "solanaceae",
+		"from": "pepperjoe",
+		"total": 10,
+		"SHU": 800000,
+		"maturity": 90,
+		"description": "By its appearance and color, we’ve heard that this pepper looks identical to the Slimer from the movie Ghostbusters because of its wrinkled skin and green-mustard color. Hopefully, you won’t have to call Ghostbusters! This pepper was created by John Ford who originally named it 7 Pot Rust. He gave some of these seeds to Kevin Bane which then evolved into a mustard-colored pod, and now we are blessed to be carrying this delicious hot pepper variety! Once you take a bite of the pepper, you’ll notice sweet and tangy tones, hints of earthy and bitterness, and well-packed heat. When you smell the pepper, you might notice an earthiness, sort of pungent aroma. When the 7 Pot Slimer is fully matured, they will turn from a green-mustard color to a mustard-orange color. This pepper will be great to make a great powder, sauce, and to put on sandwiches."
+	},
+	"7pot_katie": {
+		"full": "7 Pot Katie Pepper",
+		"family": "solanaceae",
+		"total": 10,
+		"SHU": 1600000,
+		"maturity": 120,
+		"height": "4ft",
+		"from": "pepperjoe",
+		"description": "A cross between a Red Trinidad 7 Pot and a Naga Viper, the 7 Pot Katie packs a punch with a fruity flavor. This pepper hails from the U.K. as their hottest bred pepper and was created by Nick Duran, aka Naga Nick. The plants are very productive and can grow over 4' tall. The pepper pods ripen from green to dark red, and will taste like a bowl of ultimate fire when you take the first bite! The 7 Pot varieties are named for the ability to spice up 7 pots of stew with one pod."
+	},
+	"mustard_moruga_brain": {
+		"full": "Mustard Moruga Brain Pepper",
+		"family": "solanaceae",
+		"total": 10,
+		"from": "pepperjoe",
+		"height": "4ft",
+		"SHU": 1000000,
+		"maturity": 90,
+		"description": "This Mustard Moruga Brain pepper is SCORCHIN' HOT! The flavor is very earthy/floral, with throat wrenching heat. This new variety comes from Butch T himself. The Mustard Moruga Brain has not yet been tested on the Scoville Heat scale, but we have heard this is definitely in the SUPERHOT category! The Mustard Moruga Brain chili will ripen from green to a mustard color with wrinkly, crazy-looking skin. The Mustard Moruga Brain pepper plant will grow to about 4 feet tall and it will be productive and amazing to maintain. This will be the star of the show!"
+	},
+	"jigsaw_pepper": {
+		"full": "Jigsaw Pepper",
+		"name": "Capsicum Chinense",
+		"family": "solanaceae",
+		"total": 10,
+		"maturity": 90,
+		"SHU": 1800000,
+		"from": "pepperjoe",
+		"description": "This beast is a pretty big superhot pepper as it can grow as large as 4 ounces. WOW! The Jigsaw makes it one of the largest and heftiest of the superhot peppers. It has been described by Hot Pepper YouTube reviewers as the gourmet superhot with a bursting unique flavor. Its heat has a gradual and consistent build to it. The Jigsaw has been rumored to be the new Hottest Pepper in the World....but that has never been substantiated."
+	},
+	"carolina_reaper": {
+		"full": "Carolina Reaper Pepper",
+		"family": "solanaceae",
+		"total": 10,
+		"maturity": 80,
+		"spacing": "2-3ft",
+		"SHU": 1800000,
+		"height": "5ft",
+		"NPK": "10-30-20",
+		"from": "pepperjoe",
+		"description": "In 2013, The Guinness Book of World Records declared the Carolina Reaper the “World’s Hottest Pepper.” Our Carolina Reaper Seeds produce peppers with average heat levels of 1,569,300 Scoville Heat Units (SHU's), but individual peppers have been known to reach up to 2,000,000-2,200,000 SHUs"
+	},
+	"kalugeritsa_pepper": {
+		"full": "Kalugeritsa Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"description": "A beautiful and delicious pepper from eastern North Macedonia. This Jalapeno-level hot pepper was brought to us by Steve Neumann, who also introduced the phenomenal and uniquely etched Rheza pepper and the Ajvarksi pepper. Steve collected the seeds for this variety while visiting the village of Kalugeritsa. This super rare pepper is not known outside of the region, and he was unable to find a variety name; therefore the pepper bears the name of the little town in which it is grown. We love this pretty little pointed pepper. The flavor is full bodied and is one of the best peppers for roasting!"
+	},
+	"grande_jalapeno": {
+		"full": "Craig's Grande Jalapeno Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"total": 25,
+		"maturity": 70,
+		"SHU": 5000,
+		"description": "A big, fat jalapeño that is perfect for making lots of salsa. Perfect for anyone who loves jalapeños. It has thick, flavorful, hot flesh. Developed at Redwood City Seeds. We love this one!"
+	},
+	"buena_mulata_pepper": {
+		"full": "Buena Mulata Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"total": 25,
+		"height": "3ft",
+		"SHU": 40000,
+		"description": "A very rare, extremely productive, and stunning hot pepper being offered exclusively through Baker Creek! William Woys Weaver introduced us to this pepper from his grandfather's collection. His grandfather received the pepper from African-American folk artist Horace Pippin in 1944. A chameleon-like pepper that undergoes color changes during ripening; violet to pinkish-flesh color, then orange changing to brown, and eventually to a deep red. The long, round pods reach 6 to 7 inches in length and undergo a unique flavor change as they ripen, with the reds being more sweet and meatier than the violet. The stunning plants also make wonderful potted specimens."
+	},
+	"cayenne": {
+		"full": "Long Thin Cayenne Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"height": "2ft",
+		"SHU": 40000,
+		"description": "Slender, long peppers turn bright red and are very hot. The 2-feet plants are vigorous and quite productive. Very popular for drying and using as a spice; also used medicinally. This heirloom has been popular for many years."
+	},
+	"paprika_pepper": {
+		"full": "Leutschauer Paprika Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"SHU": 1000,
+		"description": "A lovely drying pepper that comes from Matrafured, Hungary. It has been grown there since the 1800s when it was brought from Leutschau (Slovakia). The short, erect plants grow fast and are loaded with medium-hot paprikas sporting a sweet aroma and crisp texture. Its great flavor, uniform shape, and thin walls make it terrific for smoking, drying, and grinding to a delicious spicy powder. Very rare and not often found outside of its native Hungary!"
+	},
+	"tabasco_pepper": {
+		"full": "Tabasco Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"maturity": 90,
+		"SHU": 40000,
+		"description": "(C. frutescens) 90 days. This famous heirloom was introduced into Louisiana in 1848 and became the main ingredient in Tabasco Pepper Sauce. This pepper is very hot and has a delicious flavor. The plants grow up to 4 feet tall and are covered with small, thin peppers. Needs a warm summer or can be grown as a potted plant. Fruit ripen from green to orange, then red."
+	},
+	"lemon_drop": {
+		"full": "Lemon Drop Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"maturity": 100,
+		"height": "2ft",
+		"SHU": 22500,
+		"description": "(C. baccatum) 100 days. Seasoning pepper from Peru ripens to a clear lemon yellow, sometimes with a dark purple blush. The flavor is a very clean, uncomplicated, slightly citrusy heat. 2-foot plants are covered with the thin-walled, conical fruit which reaches 2-3 inches in length, with very few seeds."
+	},
+	"7pot_chocolate": {
+		"full": "7 Pot Chocolate Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"SHU": 1400000,
+		"description": "(Capsicum chinense) A supremely spicy take on the super hot Seven Pot pepper, it is believed that the darker the color, the hotter the pepper--making Chocolate Seven Pot one of the rarest and hottest peppers. A pepper originally bred in Trinidad, this fireball is now popular among home pepper breeders who are competing to create the world’s next hottest pepper. Will you be the next champion pepper breeder?"
+	},
+	"macedonian_pepper": {
+		"full": "Rezha Macedonian Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"SHU": 5000,
+		"maturity": 80,
+		"description": "80 days. The name means “engraved.” Another local name, Vezeni Piperki, means “embroidered.” Both names refer to the curious lines on the skins of the tapering, long, thin peppers. The fruit, which ranges from mild to sometimes very pungent, is to be seen hanging in great clusters, drying in Macedonian warm late autumn sun. The traditional farmers save seed from the hot peppers that also show the most pronounced striations. Our foundation seed was donated by school children from the villages of Kalugeritsa and Zleovo."
+	},
+	"shishito_pepper": {
+		"full": "Shishito Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"SHU": 125,
+		"description": "A favorite old Japanese variety which produces 3 inches long, slightly wrinkled fruit that is perfect for making tempura and other traditional recipes. Fruit is emerald green in color, ripening to red, and mildly flavored with just a bit of spice. It really is superb and is the standard with many chefs."
+	},
+	"sweet_pepper": {
+		"full": "Ajvarski Sweet Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"description": "Here’s a really outstanding roasting pepper from eastern Macedonia. Two-foot, stocky plants are covered in 6- to 7-inch, broadly wedge-shaped pods that ripen green to deep, rich red. These peppers are incredibly fragrant and tasty. When you throw half a dozen on your grill, everybody in your neighborhood will smell them! These thick-fleshed traditional peppers are roasted on flat metal stoves, peeled, then ground into a traditional relish called ajvar, which is eaten spread on bread, often with sirenje, a local cheese similar to feta. Nearly every rural household puts up a supply of ajvar for winter eating. In autumn, Macedonians flock to the markets in fertile valleys in the east to buy bushels of the best aromatic roasting peppers from the local villages. The original seed was a gift from the students in the villages of Kalugeritsa and Zleovo."
+	},
+	"king_of_the_north": {
+		"full": "King of the North Pepper",
+		"family": "solanaceae",
+		"from": "rareseeds",
+		"maturity": 68,
+		"description": "68 days. Early, good-sized peppers of a heavy yielding habit. The variety thrives in the cooler summer weather so prevalent in New England and yields crisp bells, green ripening to red, right up until frost."
+	},
+	"safflower": {
+		"full": "Dark Orange-Red Safflower",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"type": "annual",
+		"description": "Annual. Fantastic deep orange petals that make an excellent saffron substitute. This uncanny similarity to saffron is responsible for safflower’s nickname as “poor man’s saffron”. Not only useful in the kitchen, Dark Orange-Red is a gorgeous ornamental that is a well disguised garden tool. The stiff, almost prickly, plants, have been used for centuries as natural fencing to keep animals out of the garden."
+	},
+	"zucchini": {
+		"full": "Zucchini Fordhook Squash",
+		"family": "cucurbitaceae",
+		"from": "rareseeds",
+		"maturity": 57,
+		"description": "57 days. Classic, cylindrical, dark-green straight to slightly curved zucchinis. Tender, creamy-white flesh freezes well. Vigorous and productive bush plants."
+	},
+	"lemon_squash": {
+		"full": "Lemon Squash",
+		"family": "cucurbitaceae",
+		"from": "rareseeds",
+		"description": "The shape, size and color of a lemon, it grows great here, with huge yields and the best resistance to insects we have seen in a summer squash. Very tasty, great fried! A favorite, this is a superb market variety and very attractive. Our most popular summer squash."
+	},
+	"alpine_strawberry": {
+		"full": "Regina Alpine Strawberry",
+		"family": "",
+		"from": "rareseeds",
+		"description": "(Fragaria vesca) (Also known as Reine des Vallees) Intensely red, sweet and very richly flavored. Fruit is wide-shouldered and much larger than most alpine types. Heavy cropper that yields all summer. This standard European variety is seldom seen in America, but deserves much wider recognition here. Sumptuous!"
+	},
+	"lavender": {
+		"full": "Origano Lavender",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "(Lavandula multifida) Perennial in USDA zones 8-10 and annual in cooler zones. Silvery, oregano-scented foliage as delicate as fine French lace, makes this is a truly unique member of the lavender family! This first-season blooming perennial is native to the southern Mediterranean and is not cold hardy like other lavenders; it will need to be brought indoors or protected in zones 7 and cooler. Many northern gardeners treat the plants as annuals because they are easy to start from seed and will bloom in 15 weeks from sowing, then hold blooms all season long from there. Plants stand 1.5-2 feet tall and about as wide. It is beloved as a container and bedding ornamental for its frosty-filagreed foliage and its brilliant purple flower spikes. A better lavender for the south, where English lavender typically struggles in the heat and humidity."
+	},
+	"borage": {
+		"full": "Blue Borage",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "(Borago officinalis) Cucumber-flavored fresh leaves are added to salads, cooked, or made into a cooling drink. The blue flowers are used as a garnish. Makes a good honey plant. Also used medicinally."
+	},
+	"clover": {
+		"full": "Crimson Clover",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "Annual. Also known as Italian Clover. Nitrogen-fixing legume often grown for livestock feed or wildlife forage, yet pretty enough for the flower garden! Crimson flower heads are great bee forage. Planted thickly, also makes a superior cover or green manure crop, with its ability to smother out weeds and fix atmospheric nitrogen into the soil. This lovely, versatile plant should be much more widely grown!"
+	},
+	"coleus": {
+		"full": "Pinto Mix Coleus",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "One of the most colorful coleus blends we have ever seen! This selection is a neon rainbow of leafy loveliness and beauty. Super low-maintenance ornamental that can be grown in shade or sun and treated as a landscape plant or a house plant. The colors in this mix are bold, with magentas, hot pinks, and lime greens. Foliage has softly scalloped edges with some having picotee colors. Coleus were a poplar favorite in Victorian times, and they still bring vibrant beauty to almost any garden of any size, adding color for spring, summer and fall."
+	},
+	"blackberry": {
+		"full": "Schwartzenbeeren Blackberries",
+		"family": "",
+		"from": "rareseeds",
+		"description": "These have an incredible sweet-taste, similar to real blackberries. Attractive 2- to 3-foot plants yield clusters of pea-sized black berries. Brought to Kansas by Volga German immigrants about 1875, and still appreciated by their descendants, who grow and use them in such traditional recipes as Kuchen, Maultaschen, Klump and Knebel. Eat only fully ripe, dark blue-black berries."
+	},
+	"bunching_onion": {
+		"full": "Red Welsh Bunching Onion",
+		"family": "alliaceae",
+		"from": "rareseeds",
+		"description": "Super-hardy bunching onion that originated in northern China or Siberia, despite its name. Grown for its thick green stems and hollow leaves that possess a sharp onion flavor. This perennial never forms a bulb in the garden; once established, new plants can be raised by replanting the abundant side-shoots. May be blanched like leeks by earthing up the thick stems as the plants grow. Widely used in the cuisines of Japan, Taiwan, and China. This crop is also grown by the Welsh, hence its name. Easy to grow and productive once established."
+	},
+	"blue_poppy": {
+		"full": "Hungarian Blue Breadseed Poppy",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "(P. somniferum) A graceful and gorgeous poppy from Hungary, beloved for its tasty seeds. This edible breadseed poppy produces dazzling purple petals that give way to large seed-filled pods. The pods are excellent for arranging, adding unique form to designs. The seeds are a light blue color with nutty flavor. An annual that easily self sows, we love to plant this poppy in drifts, creating a swaying sea of purple color. Many Hungarian recipes call for poppy seeds, from fillings for rolls and bread. There is even a traditional noodle dish with ground poppy seed topping."
+	},
+	"hopi_sunflower": {
+		"full": "Hopi Black Dye Sunflower",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "A brilliant obsidian-black seeded sunflower, used for making natural dye. This traditional variety has been saved and used by the Hopi Native American people for dying cotton, wool and other fibers used to make the iconic Hopi basketry. These medium to large sunflower heads are striking in the garden, the simple dye making process will yield stellar shades from dove grey to deep purple depending on the technique and other materials used. A multipurpose variety, the food and fodder merits of this beautiful variety should not be overlooked. Reaches about 8 feet tall."
+	},
+	"zinnia": {
+		"full": "Purple Prince Zinnia",
+		"family": "asteraceae",
+		"type": "annual",
+		"from": "rareseeds",
+		"description": "Annual. Dahlia-flowered type is one of the tallest we’ve seen! The flowers are extra large and brilliant amethyst-purple with pale green centers. Fine for cut flowers, but the lavish display is best appreciated right in the garden, especially planted en masse. Beloved in gardens since 1949. Fabulous!"
+	},
+	"blue_tomato": {
+		"full": "Bosque Blue Bumblebee Tomato",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "75 days to maturity. Superior breeding efforts have resulted in one of the most delectable and color- saturated tomatoes we have seen! Plants produce bunches of 2-inch globes, round and brilliant blue, maturing to a golden yellow with blue shoulders. This newer variety was introduced by J and L Gardens and is a cross between the famously sugary Amy’s Sugar Gem and the antioxidant-rich OSU Blue tomato. It is perfect to snack on or for salads and should be a centerpiece for market displays!"
+	},
+	"viola": {
+		"full": "Brush Strokes Viola",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "A stunning re-selection of the striped pansies and violas of yesteryear, these vibrant beauties have disappeared, so we are excited to bring back this color scheme to the garden again. So appropriately named, the petals have the look of a painting, each bloom with its own unique markings. This pansy loves cool weather, and the flowers are edible and delicious, perfect for salads, desserts, garnishes and more! The blooms are striking and will make a statement in pots, borders and beds. Please note this variety is highly variable with solid colors among the splashed brushtroke flowers."
+	},
+	"giant_cockscomb": {
+		"full": "Indiana Giant Cockscomb",
+		"family": "asteraceae",
+		"from": "rareseeds",
+		"description": "Jere Gettle received seeds of this amazing, mammoth variety from an Amish family while traveling in Indiana around 2004. The deep crimson, tightly curled heads can reach to 14 inches across! A perfect choice for cutting gardens, landscaping, and county fair displays."
+	},
+	"morning_glory": {
+		"full": "Morning Glory",
+		"family": "asteraceae",
+		"from": "trueleafmarket",
+		"maturity": 112,
+		"height": "1ft",
+		"type": "annual",
+		"name": "Ipomoea purpurea",
+		"depth": "0.125in",
+		"spacing": "3ft",
+		"description": "112 days. Mixed Colors morning glory seeds are an essential and decorative grow for your summertime garden, home, or patio. Mixed Colors morning glory is easy to grow from seed and produces hardy and vigorous vines bursting with 2\" trumpet-shaped blooms that climb as high as 5 – 10' up fences, sidings, trees, and trellises. Mixed Colors morning glories are an ideal interior décor to shape around windows, doors, and corners or to have sprawl freely out on the porch or patio. Mixed Colors morning glory seeds grow a variable habit left to the creativity and imagination of the gardener to shape, mound, mold, or fold the climbing plant however they'd like to for the season."
+	},
+	"foxglove": {
+		"full": "Digitalis (Foxglove)",
+		"name": "Digitalis purpurea",
+		"family": "asteraceae",
+		"from": "trueleafmarket",
+		"type": "perennial",
+		"spacing": "1-1.5ft",
+		"height": "1ft",
+		"depth": "surface",
+		"description": "2nd Year Maturity. Mixed Color foxglove seeds grow classic and delicate blooms where other flowers would wither. Mixed Color seeds deliver compact 12 – 18” foxgloves bursting with densely blooming stalks in shades of lavender, rose, cream, fuchsia, and ivory. Foxglove is a tolerant seasonal performer ideal as a neat trim along the flower bed. Mixed Color foxgloves are a timeless floral shop favorite and promise to add a professional charm to your summertime baskets, arrangements, and bouquets."
+	},
+	"bidens": {
+		"full": "Bidens",
+		"name": "Bidens ferulifolia",
+		"family": "asteraceae",
+		"from": "trueleafmarket",
+		"type": "annual",
+		"spacing": "1.5ft",
+		"height": "1ft",
+		"depth": "surface",
+		"maturity": 90,
+		"description": "77 – 91 days. Inspiration Yellow seeds grow elegant and award-winning bidens that promise to invigorate any stale flower bed, patio, or room. Inspiration Yellow bidens seeds are hardy outdoor favorites for growing unique golden yellow along a walkway or flowerbed, but just as popularly kept indoors. Inspiration Yellow seeds boast a semi-dwarfed 9 – 12” tall bidens bursting with 1” cosmos-like blooms often used as a fresh cut in many seasonal bouquets and arrangements. Inspiration Yellow bidens has won more than a dozen top honors, contests, and growing trials and has been proven to thrive in a variety of gardens. 100 seeds."
+	},
+	"astilbe": {
+		"full": "Astilbe showstar mix",
+		"name": "Astilbe arendsii",
+		"family": "asteraceae",
+		"from": "trueleafmarket",
+		"type": "perennial",
+		"spacing": "1ft",
+		"height": "1-1.5ft",
+		"depth": "0.25in",
+		"description": "2nd Year Maturity. Open Pollinated. Perennial. Showstar Mix Astilbe flower seeds grow an ideal and unique substitute to more traditional seasonal blooms. Showstar Mix Astilbe is an easy flower to grow from seed and matures into feathery and herbaceous 12 – 18” tall perennials known to thrive in cool, wet summers. Showstar Mix Astilbe provides vast and hardy ground cover, a perfect grow for mass borders, open fields, and commercial and business properties. Astilbe is one of the most widely cultivated blooms of the last century and promises to add a touch of elegance to any planter, basket, or living room. 100 seeds."
+	},
+	"astilbe": {
+		"full": "",
+		"name": "Bidens ferulifolia",
+		"family": "asteraceae",
+		"from": "trueleafmarket",
+		"type": "perennial",
+		"spacing": "1ft",
+		"height": "1-1.5ft",
+		"depth": "0.25in",
+		"description": "2nd Year Maturity. Open Pollinated. Perennial. Showstar Mix Astilbe flower seeds grow an ideal and unique substitute to more traditional seasonal blooms. Showstar Mix Astilbe is an easy flower to grow from seed and matures into feathery and herbaceous 12 – 18” tall perennials known to thrive in cool, wet summers. Showstar Mix Astilbe provides vast and hardy ground cover, a perfect grow for mass borders, open fields, and commercial and business properties. Astilbe is one of the most widely cultivated blooms of the last century and promises to add a touch of elegance to any planter, basket, or living room. 100 seeds."
 	}
 }
